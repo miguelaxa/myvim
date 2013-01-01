@@ -42,7 +42,7 @@ public class StartPointTest {
 		int add_ans = startPoint.adder(24, 2);
 
 		if (add_ans == 26) {
-			//System.out.println("good 1");
+			System.out.println("good 1");
 		} else {
 			System.out.println("good bad ans = " + add_ans);
 			fail("Not yet implemented");
