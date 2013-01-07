@@ -1,3 +1,5 @@
+import os
+
 myDictionary ={
 			"a":"1",
 			"b":"f",
@@ -9,3 +11,5 @@ myDictionary ={
 for value in myDictionary:
 	if(myDictionary[value]) is "f":
 		print(value)
+		
+		eft
