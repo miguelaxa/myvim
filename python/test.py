@@ -1,4 +1,6 @@
 import os
+def mySayhello():
+	print "hello"
 
 myDictionary ={
 			"a":"1",
@@ -12,4 +14,3 @@ for value in myDictionary:
 	if(myDictionary[value]) is "f":
 		print(value)
 		
-		eft
